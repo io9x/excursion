@@ -1,12 +1,7 @@
 body{
+  font-family: Verdana, sans-serif;
+  text-align: center;
   background-color: black;
-  align-items: center;
-}
-
-h1,
-h2,
-p {
-  font-family: Verdana;
   color: white;
 }
 
@@ -28,4 +23,8 @@ p {
 .cta {
 font-size: 16px;
 color: aquamarine;
+}
+
+.footer {
+  text-align: right;
 }
